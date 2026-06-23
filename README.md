@@ -1,2 +1,3 @@
-# raids.github.io
-Privacy Policy File
+# 情绪驿站App隐私政策
+
+本App完全运行在本地，不收集、不上传任何数据。
